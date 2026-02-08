@@ -37,7 +37,7 @@
     <a href="#license">License</a>
 
   
-</p>
+</p>lrdenes en todas los súper mercados 
 
 # Pathway<a id="pathway"> Live Data Framework</a>
 
